@@ -1,6 +1,6 @@
 # fhb97
 ## Github first project
-* Punkt 1
-* Punkt 2
-* Punkt 3
+* Seneste projekt/opgave
+[Side](http://frederikbraad.dk/maleriet_opgave/maleriet.html)
+* Link til min homepage
 [Hjemmeside](http://frederikbraad.dk/HTML/index.html)
