@@ -1,0 +1,86 @@
+.body {
+  background-color: white;
+}
+
+section {
+  margin: 200px;
+}
+
+h1, h2, h3, h4, p {
+  font-family: helvetica;
+  margin-left: 120px;
+  margin-right: 200px;
+}
+
+p {
+  font-weight: normal;
+  margin: 0;
+  margin-left: 120px;
+  margin-right: 200px;
+}
+
+span {
+  color: blue;
+}
+
+.container-1 {
+  background-color: mediumspringgreen;
+  padding: 10px;
+  margin: 50px;
+  margin-right: 200px;
+  margin-left: 120px;
+}
+
+.maleriet {
+  background-image: url(maleri_billeder/pattern.jpeg);
+  font-family: helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  margin: 50px;
+  margin-right: 200px;
+  margin-left: 120px;
+}
+
+.pensler {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white
+}
+
+img {
+  margin-left: 120px;
+  margin-right: 200px;
+}
+
+.container-2 {
+  background-color: lightcoral;
+  padding: 10px;
+  margin: 50px;
+  margin-right: 200px;
+  margin-left: 120px;
+}
+
+.rammer {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white
+}
+
+.container-3 {
+  background-color: skyblue;
+  padding: 10px;
+  margin: 50px;
+  margin-right: 200px;
+  margin-left: 120px;
+}
+
+.maling {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
