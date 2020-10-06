@@ -3,4 +3,4 @@
 * Seneste projekt/opgave
 [Side](http://frederikbraad.dk/maleriet_opgave/maleriet.html)
 * Link til min homepage
-[Hjemmeside](http://frederikbraad.dk/HTML/index.html)
+[Hjemmeside]
